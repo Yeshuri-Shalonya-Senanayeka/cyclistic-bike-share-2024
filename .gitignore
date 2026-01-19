@@ -1,0 +1,16 @@
+# Do NOT upload raw/large datasets
+01_data/
+**/*.csv
+**/*.xlsx
+
+# Power BI temp/backup files
+*.pbix.backup
+*.pbit
+*.tmp
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# SQL Server backups
+*.bak
